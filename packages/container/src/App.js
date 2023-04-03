@@ -27,8 +27,7 @@ const App = () => {
                 <div>
                     <Header />
                     <NavigationTabs />
-                    <Content>
-                    </Content>
+                    <Content />
                     {/* <MarketingApp /> */}
                 </div>
             </StylesProvider>
